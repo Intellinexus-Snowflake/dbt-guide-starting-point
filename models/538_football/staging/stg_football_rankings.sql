@@ -1,0 +1,1 @@
+select * from "DBT_DEV"."PUBLIC"."stg_football_rankings"

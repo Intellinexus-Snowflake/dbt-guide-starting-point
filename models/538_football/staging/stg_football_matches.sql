@@ -1,0 +1,1 @@
+select * from "DBT_DEV"."PUBLIC"."STG_FOOTBALL_MATCHES"
